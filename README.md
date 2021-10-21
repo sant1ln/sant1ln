@@ -48,14 +48,14 @@ Los siguientes son proyectos que he realizado a lo largo de mi aprendizaje en la
   
 ### Mandame un DM!
 <div>
-   👉 <a href="https://twitter.com/SantiagoLN99" target="_blank" rel="noopener noreferrer">
+   👉 <a href="https://twitter.com/SantiagoLN99" target="_blank" >
     En twitter! <br>
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 <div>
   
- 👉<a href="https://www.linkedin.com/in/santiago-lopera-naranjo/" target="_blank" rel="noopener noreferrer">
+ 👉<a href="https://www.linkedin.com/in/santiago-lopera-naranjo/" target="_blank" >
     O en Linkedin <br>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -64,7 +64,7 @@ Los siguientes son proyectos que he realizado a lo largo de mi aprendizaje en la
 ### Si quieres ver algunos momentos felices de mi vida. <br>
 <div>
   
- 👉<a href="https://www.instagram.com/lopera_s99/" target="_blank" rel="noopener noreferrer">
+ 👉<a href="https://www.instagram.com/lopera_s99/" target="_blank">
   Mira mi Instagram <br>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
