@@ -1,34 +1,33 @@
 # Hi there, I'm Santiago 👋👓
 
+I'm Santiago Lopera, A Software developer passionate about technology that surrounds us in this online world literally connected to each other.
 
-Soy Santiago Lopera, un desarrollador de software apasionado por la tecnologia que nos rodea en este mundo online literalmente conectado entre si.
+At the moment, I'm frontend developer with React, and I'm in the way to be a Full Stack JS Dev. 💻 and also with Python 🐍 
 
-Actualmente, soy un desarrollador frontend con React, me encuentro en proceso de ser un "MERN" Developer. 💻
+### Projects
 
-### Proyectos
-
-Los siguientes son proyectos que he realizado a lo largo de mi aprendizaje en la librería de React
+These are proyect I have done with React.
 
 #### ReduxShop
-  Una pequeña simulación de un e-commerce usando Redux como manejador de estado. <br>
+  And fake e-commerce using Redux <br>
   App 👉 https://reduxstore-c7f88.web.app/ <br>
   Repo 👉 https://github.com/sant1ln/Redux-Shop
 
 #### ReactNotes
-  Una app donde puedes crear notas, aquí decidí usar React Context como manejo de estado. <br>
+  An app to take notes, here I use React Context for the state managment. <br>
   App 👉 https://github.com/sant1ln/NotePad_React <br>
   Repo 👉 https://github.com/sant1ln/NotePad_React
   
 #### PokeDex
-  Una Wikipedia, pero de Pokemones. <br>
+  A wikipedia, but for pokemons. <br>
   App 👉https://pokedex-ca435.web.app/ <br>
   Repo 👉https://github.com/sant1ln/pokedex
   
-### Tecnologias
+### Technologies
   
-  Tecnologias que uso
   
-  #### 🤘 Para crear <br>
+  
+  #### 🤘 What I use to create? <br>
   <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,7 +37,7 @@ Los siguientes son proyectos que he realizado a lo largo de mi aprendizaje en la
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   </div>
   
-  #### 💻 Para hacerlo realidad <br>
+  #### 💻 To do it! <br>
   <div>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
@@ -46,29 +45,20 @@ Los siguientes son proyectos que he realizado a lo largo de mi aprendizaje en la
   </div>
   
   
-### Mandame un DM!
+### Send me a DM!
 <div>
    👉 <a href="https://twitter.com/SantiagoLN99" target="_blank" >
-    En twitter! <br>
+    In twitter! <br>
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 <div>
   
  👉<a href="https://www.linkedin.com/in/santiago-lopera-naranjo/" target="_blank" >
-    O en Linkedin <br>
+    In Linkedin <br>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-### Si quieres ver algunos momentos felices de mi vida. <br>
-<div>
-  
- 👉<a href="https://www.instagram.com/lopera_s99/" target="_blank">
-  Mira mi Instagram <br>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-  
 
 
