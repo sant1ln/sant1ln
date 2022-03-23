@@ -18,10 +18,6 @@ These are proyect I have done with React.
   App 👉 https://github.com/sant1ln/NotePad_React <br>
   Repo 👉 https://github.com/sant1ln/NotePad_React
   
-#### PokeDex
-  A wikipedia, but for pokemons. <br>
-  App 👉https://pokedex-ca435.web.app/ <br>
-  Repo 👉https://github.com/sant1ln/pokedex
   
 ### Technologies
   
